@@ -1,5 +1,7 @@
 # Proyecto: Online Product Sales
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Delacrobix/intruccion_ia)
+
 ## Miembros del grupo
 
 - Jeffrey Sneider Rengifo Marin, CC 1037659300, Ingeniería de Sistemas
@@ -9,6 +11,10 @@
 
 Los datos del proyecto vienen de [La competición Kaggle Online Product Sales](https://www.kaggle.com/competitions/online-sales/overview).
 
-## Videos
+## Entrega 2
 
-[Video primera entrega](https://www.youtube.com/watch?v=QlewuOfzY1Y)
+Video [Video entrega 2](https://youtu.be/QlewuOfzY1Y)
+
+## Entrega 3
+
+Video [Video entrega 2](https://youtu.be/GA0GcOiZreE)
