@@ -1,6 +1,6 @@
 # Proyecto: Online Product Sales
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Delacrobix/intruccion_ia)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elkin-1729/ProyectoIA)
 
 ## Miembros del grupo
 
